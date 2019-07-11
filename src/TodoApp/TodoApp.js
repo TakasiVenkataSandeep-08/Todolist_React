@@ -17,12 +17,12 @@ export class TodoApp extends Component {
 
     this.state = {
       todoItems: [
-        // { id: 1, subject: "Welcome Task1", status: "active" },
-        // { id: 2, subject: "Welcome Task2", status: "completed" },
-        // { id: 3, subject: "Welcome Task3", status: "active" },
-        // { id: 4, subject: "Welcome Task4", status: "completed" },
-        // { id: 5, subject: "Welcome Task5", status: "active" },
-        // { id: 6, subject: "Welcome Task6", status: "completed" }
+        { id: 1, subject: "Welcome Task1", status: "active" },
+        { id: 2, subject: "Welcome Task2", status: "completed" },
+        { id: 3, subject: "Welcome Task3", status: "active" },
+        { id: 4, subject: "Welcome Task4", status: "completed" },
+        { id: 5, subject: "Welcome Task5", status: "active" },
+        { id: 6, subject: "Welcome Task6", status: "completed" }
       ],
       displayItems: [],
       addItemTxt: "",
