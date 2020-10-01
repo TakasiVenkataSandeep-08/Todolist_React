@@ -8,7 +8,7 @@ Todolist application
 ### Installing
 ```sh
 - git clone 
-- npm install
+- npm install [dependencies]
 - npm start
 ```
 Check below url 
